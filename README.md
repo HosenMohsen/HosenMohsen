@@ -4,5 +4,15 @@
  🎮 **Passioné par l'E-sport** #KC <br>
  <hr>
 
+<h3 style= 'text-align: center;'> Étudiant en Coding & Digital Innovation  </h3>
+
+* 📃 Langage appris :
+
+    * JavaScript <img src="image.png" width="15" height="15">
 
 
+    * Php <img src="https://www.freepnglogos.com/uploads/logo-php-png/web-din-micas-con-php-7.png" height="15" width="30">
+
+    * HTML/CSS <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg" height="20" width="20"> 
+
+    * Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="15" width="15"> 
