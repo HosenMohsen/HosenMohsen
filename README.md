@@ -4,7 +4,7 @@
  🎮 **Passioné par l'E-sport** #KC <br>
  <hr>
 
-<h3> Étudiant en Coding & Digital Innovation  </h3>
+<h3 align="center"> Étudiant en Coding & Digital Innovation  </h3>
 
 * 📃 Langage appris :
 
