@@ -18,3 +18,12 @@
     * Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="15" width="15"> 
 
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HosenMohsen)
+
+
+* ✉️ Pour me contacter : 
+
+    * 📧 [E-mail personnel](mailto:mohsen.hosen95@gmail.com )
+
+    * 📨 [E-mail étudiant](mailto:mohsen.hosen@edu.devinci.fr)
+
+    * <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height= "15" width="15"> [LinkedIn](https://www.linkedin.com/in/mohsen-hosen-09118324b/)
