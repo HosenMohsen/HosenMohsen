@@ -4,7 +4,7 @@
  🎮 **Passioné par l'E-sport** #KC <br>
  <hr>
 
-<h3 style= 'text-align: center;'> Étudiant en Coding & Digital Innovation  </h3>
+<h3> Étudiant en Coding & Digital Innovation  </h3>
 
 * 📃 Langage appris :
 
@@ -16,3 +16,5 @@
     * HTML/CSS <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg" height="20" width="20"> 
 
     * Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="15" width="15"> 
+
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HosenMohsen)
